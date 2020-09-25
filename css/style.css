@@ -1,0 +1,113 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.style5,
+.style7 {
+  position: relative;
+  display: flex
+}
+.style5 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5smlkfi02ytn.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  margin-left: 8.638025919596354vw;
+  margin-top: 33.80207061767578vw;
+  width: 16.993664105733234vw;
+  height: 16.993802388509113vw;
+  z-index: 4
+}
+.style7 {
+  margin-left: 9.747390747070312vw;
+  margin-top: 8.020846048990885vw;
+  width: 15.641873677571615vw;
+  height: 1.71875vw;
+  z-index: 6;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: center
+}
+.web19201image0container0row0 {
+  display: flex;
+  margin-left: -.10416666666666667vw;
+  margin-top: 0;
+  width: 15.746040344238281vw;
+  height: 1.71875vw;
+  align-items: center
+}
+.style8 {
+  color: #702f8a;
+  text-align: right;
+  font-family: open-sans-1,serif;
+  font-size: 1.25vw;
+  font-weight: 700;
+  margin-left: 0;
+  z-index: 7
+}
+.style9 {
+  margin-left: .546875vw;
+  width: 2.0220820109049478vw;
+  height: 1.0110410054524739vw;
+  z-index: 8;
+  align-self: center
+}
+.style1 {
+  color: #702f8a;
+  font-size: 1.6666666666666667vw;
+  font-weight: 700;
+  margin-left: 12.291666666666666vw;
+  margin-top: 4.270833333333334vw;
+  z-index: 0
+}
+.style1,
+.style2,
+.style3,
+.style4 {
+  font-family: open-sans-1,serif
+}
+.style3 {
+  line-height: 1.25vw;
+  width: 12.8125vw;
+  height: 23.645833333333332vw;
+  color: #444;
+  font-size: .8333333333333334vw;
+  font-weight: 300;
+  margin-left: 12.291666666666666vw;
+  margin-top: 1.5625vw;
+  z-index: 2
+}
+.style2,
+.style4 {
+  color: #05c3de;
+  font-size: 1.6666666666666667vw;
+  font-weight: 700;
+  margin-left: 18.4375vw;
+  margin-top: 7.291666666666667vw;
+  z-index: 1
+}
+.style4 {
+  color: #444;
+  font-size: .8333333333333334vw;
+  font-weight: 300;
+  line-height: 1.25vw;
+  margin-left: 28.125vw;
+  margin-top: 8.072916666666668vw;
+  width: 11.354166666666666vw;
+  height: 19.895833333333332vw;
+  z-index: 3
+}
+.style6 {
+  object-fit: cover;
+  margin-left: 1.9270833333333335vw;
+  margin-top: 1.5701683362325034vw;
+  width: 49.99889373779297vw;
+  height: 49.99929745992025vw;
+  z-index: 5
+}
+.breakpoint-0 {
+  display: block
+}
