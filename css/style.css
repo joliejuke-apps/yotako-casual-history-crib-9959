@@ -1,0 +1,104 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.style1,
+.web19201row1 {
+  margin-left: 12.291666666666666vw
+}
+.style1 {
+  color: #702f8a;
+  font-family: open-sans-1,serif;
+  font-size: 1.6666666666666667vw;
+  font-weight: 700;
+  z-index: 0;
+  margin-top: 1.9270833333333335vw
+}
+.web19201row1 {
+  display: flex;
+  margin-top: 1.5625vw;
+  width: 27.1875vw
+}
+.style3,
+.style4 {
+  color: #444;
+  font-family: open-sans-1,serif;
+  font-size: .8333333333333334vw;
+  font-weight: 300;
+  line-height: 1.25vw
+}
+.style3 {
+  margin-left: 0;
+  width: 12.8125vw;
+  height: 23.645833333333332vw;
+  z-index: 2
+}
+.style4 {
+  margin-left: 3.0208333333333335vw;
+  width: 11.354166666666666vw;
+  height: 19.895833333333332vw;
+  z-index: 3
+}
+.web19201row2 {
+  display: flex;
+  margin-left: 8.638025919596354vw;
+  margin-top: 2.0833206176757812vw;
+  width: 35.05989074707031vw
+}
+.style6,
+.style8 {
+  position: relative;
+  display: flex
+}
+.style6 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5re0kfhz4v1u.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  margin-left: 0;
+  margin-top: 0;
+  flex-direction: column;
+  width: 16.993664105733234vw;
+  height: 16.993802388509113vw;
+  z-index: 5
+}
+.style8 {
+  margin-left: 9.747390747070312vw;
+  margin-top: 8.020846048990885vw;
+  width: 15.641873677571615vw;
+  height: 1.71875vw;
+  z-index: 7;
+  align-items: center;
+  flex-shrink: 0
+}
+.style9 {
+  color: #702f8a;
+  text-align: right;
+  font-family: open-sans-1,serif;
+  font-size: 1.25vw;
+  font-weight: 700;
+  margin-left: -.10416666666666667vw;
+  z-index: 8
+}
+.style10 {
+  margin-left: .546875vw;
+  width: 2.0220820109049478vw;
+  height: 1.0110410054524739vw;
+  z-index: 9;
+  align-self: center
+}
+.style2 {
+  color: #05c3de;
+  font-family: open-sans-1,serif;
+  font-size: 1.6666666666666667vw;
+  font-weight: 700;
+  margin-left: 9.799474080403646vw;
+  margin-top: 5.208346048990886vw;
+  z-index: 1
+}
+.breakpoint-0 {
+  display: block
+}
