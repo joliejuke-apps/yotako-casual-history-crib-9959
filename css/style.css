@@ -1,0 +1,104 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.style6,
+.style8 {
+  position: relative;
+  display: flex
+}
+.style6 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5rmckfhzb1w7.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  margin-left: 8.638025919596354vw;
+  margin-top: 33.80207061767578vw;
+  width: 16.993664105733234vw;
+  height: 16.993802388509113vw;
+  z-index: 5
+}
+.style8 {
+  margin-left: 9.747390747070312vw;
+  margin-top: 8.020846048990885vw;
+  width: 15.641873677571615vw;
+  height: 1.71875vw;
+  z-index: 7;
+  flex-direction: column;
+  flex-shrink: 0
+}
+.style1,
+.style3,
+.style9 {
+  color: #702f8a;
+  font-family: open-sans-1,serif;
+  font-weight: 700
+}
+.style9 {
+  text-align: right;
+  font-size: 1.25vw;
+  z-index: 8
+}
+.style1,
+.style3 {
+  font-size: 1.6666666666666667vw;
+  margin-left: 12.291666666666666vw;
+  margin-top: 4.270833333333334vw;
+  z-index: 0
+}
+.style3 {
+  color: #444;
+  font-size: .8333333333333334vw;
+  font-weight: 300;
+  line-height: 1.25vw;
+  margin-top: 1.5625vw;
+  width: 12.8125vw;
+  height: 23.645833333333332vw;
+  z-index: 2
+}
+.style5 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5rmckfhzb1m3.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: .5208333333333333vw;
+  margin-top: 25.268084208170574vw;
+  width: 34.113477071126304vw;
+  height: 34.113756815592446vw;
+  z-index: 4
+}
+.style10 {
+  margin-left: 6.380208333333333vw;
+  margin-top: 16.897958119710285vw;
+  width: 2.0220820109049478vw;
+  height: 1.0110410054524739vw;
+  z-index: 9
+}
+.style4 {
+  color: #444;
+  font-family: open-sans-1,serif;
+  font-size: .8333333333333334vw;
+  font-weight: 300;
+  line-height: 1.25vw;
+  margin-left: 28.125vw;
+  margin-top: 8.072916666666668vw;
+  width: 11.354166666666666vw;
+  height: 19.895833333333332vw;
+  z-index: 3
+}
+.style7 {
+  object-fit: cover;
+  margin-left: 1.9270833333333335vw;
+  margin-top: 1.5701683362325034vw;
+  width: 49.99889373779297vw;
+  height: 49.99929745992025vw;
+  z-index: 6
+}
+.breakpoint-0 {
+  display: block
+}
