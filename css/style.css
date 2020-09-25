@@ -1,0 +1,108 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.web19201row0 {
+  display: flex;
+  margin-left: 8.638025919596354vw;
+  margin-top: 1.5701683362325034vw;
+  width: 82.76711781819661vw;
+  flex-wrap: wrap
+}
+.style6 {
+  object-fit: cover;
+  margin-left: 32.76822408040365vw;
+  margin-top: 0;
+  width: 49.99889373779297vw;
+  min-width: 639.98583984375px;
+  height: 49.99929745992025vw;
+  z-index: 5
+}
+.style1,
+.style3,
+.style4 {
+  color: #702f8a;
+  font-family: open-sans-1,serif;
+  font-size: 1.6666666666666667vw;
+  font-weight: 700;
+  margin-left: -79.1134770711263vw;
+  margin-top: 2.70066499710083vw;
+  z-index: 0
+}
+.style3,
+.style4 {
+  color: #444;
+  font-size: .8333333333333334vw;
+  font-weight: 300;
+  line-height: 1.25vw;
+  margin-left: -26.666666666666668vw;
+  margin-top: 6.502748330434163vw;
+  width: 12.8125vw;
+  min-width: 164px;
+  height: 23.645833333333332vw;
+  z-index: 2
+}
+.style4 {
+  margin-left: 3.0208333333333335vw;
+  width: 11.354166666666666vw;
+  min-width: 145.33333333333334px;
+  height: 19.895833333333332vw;
+  z-index: 3
+}
+.style5,
+.style7 {
+  position: relative;
+  display: flex
+}
+.style5 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5t3bkfi0d7y1.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  min-width: 217.5189005533854px;
+  margin-left: -30.841140747070312vw;
+  margin-top: 32.231902281443276vw;
+  width: 16.993664105733234vw;
+  height: 16.993802388509113vw;
+  z-index: 4
+}
+.style7 {
+  margin-left: 9.747390747070312vw;
+  margin-top: 8.020846048990885vw;
+  width: 15.641873677571615vw;
+  height: 1.71875vw;
+  z-index: 6;
+  align-items: center;
+  flex-shrink: 0
+}
+.style8 {
+  color: #702f8a;
+  text-align: right;
+  font-family: open-sans-1,serif;
+  font-size: 1.25vw;
+  font-weight: 700;
+  margin-left: -.10416666666666667vw;
+  z-index: 7
+}
+.style9 {
+  margin-left: .546875vw;
+  width: 2.0220820109049478vw;
+  height: 1.0110410054524739vw;
+  z-index: 8;
+  align-self: center
+}
+.style2 {
+  color: #05c3de;
+  font-family: open-sans-1,serif;
+  font-size: 1.6666666666666667vw;
+  font-weight: 700;
+  margin-left: -7.19419002532959vw;
+  margin-top: 37.440248330434166vw;
+  z-index: 1
+}
+.breakpoint-0 {
+  display: block
+}
